@@ -1,8 +1,8 @@
 [
   {
     "remote"        : "github",
-    "repository"    : "OdSazib/device_xiaomi_sdm660-common",
+    "repository"    : "sadi80/device_xiaomi_sdm660-common",
     "target_path"   : "device/xiaomi/sdm660-common",
-    "branch"        : "11-4.19"
+    "branch"        : "120"
   }
 ]
